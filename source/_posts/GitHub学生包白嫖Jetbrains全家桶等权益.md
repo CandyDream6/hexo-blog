@@ -1,10 +1,10 @@
 ---
-title: GitHub Pro白嫖Jetbrains全家桶等权益(福利)
+title: GitHub学生包白嫖Jetbrains全家桶等权益(福利)
 index_img: https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleBg/1(42).jpg
 banner_img: https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleBg/1(42).jpg
 sticky: 100
 tags:
-  - 大数据
+  - 学生包
   - GithubPro
   - Jetbrains
   - Copilot
@@ -16,7 +16,7 @@ category:
 date: 2022-10-26 13:45:08
 ---
 
-`GitHub Pro`是GitHub的付费认证用户，享有非常多的权益，今天就来介绍一下GitHub Pro绑定各项权益的方法，方便大家去参考一下。
+GitHub学生包就是`GitHub Pro`，是GitHub的付费认证用户，享有非常多的权益，今天就来介绍一下GitHub Pro绑定各项权益的方法，方便大家去参考一下。
 
 <!-- more -->
 

@@ -191,7 +191,7 @@ font:
 # Specify the path of your custom js file, support list. The path is relative to the source directory, such as `/js/custom.js` corresponding to the directory `source/js/custom.js`
 custom_js:
   - https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/js/dianJiChuZi.js # 点击出字
-#  - https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/js/touBuShangShengQiPao.js #头部上升气泡
+  #  - https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/js/touBuShangShengQiPao.js #头部上升气泡
   - https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/js/dongTaiCaiDai.js # 动态彩带
   - https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/js/jingTaiSiDai.js # 静态彩带
   - https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/js/dongTaiHeiSeXianTiao.js # 动态黑色线条
@@ -309,15 +309,16 @@ navbar:
     - { key: "友链", link: "/links/", icon: "iconfont icon-link-fill" }
     - { key: "相册", link: "/photos/", icon: "iconfont icon-image" }
     - { key: "工具", link: "/customerPage/box/index.html", icon: "iconfont icon-book" }
-    - {
-      key: '有趣',
-      icon: 'iconfont icon-books',
-      submenu: [
-        { key: '何问起', link: '/customerPage/hewenqi/hewenqi.html' }
-      ]
-    }
-    - { key: "商城", link: "https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/taobaozhuye.png", icon: "iconfont icon-slack-fill" }
-#    - { key: "CuteTing", link: "https://xiaoma.love/", icon: "iconfont icon-friends" }
+    #    - {
+    #      key: '有趣',
+    #      icon: 'iconfont icon-books',
+    #      submenu: [
+    #        { key: '何问起', link: '/customerPage/hewenqi/hewenqi.html' }
+    #      ]
+    #    }
+    - { key: "GitHub学生包认证", link: "https://githubedu.com", icon: "iconfont icon-books" }
+    - { key: "商城", link: "https://shop.githubedu.com", icon: "iconfont icon-slack-fill" }
+    #    - { key: "CuteTing", link: "https://xiaoma.love/", icon: "iconfont icon-friends" }
     - { key: "关于", link: "/about/", icon: "iconfont icon-user-fill" }
 #    - { key: "新冠肺炎疫情地图", link: "https://voice.baidu.com/act/newpneumonia/newpneumonia", icon: "iconfont icon-baidu-fill" }
 
