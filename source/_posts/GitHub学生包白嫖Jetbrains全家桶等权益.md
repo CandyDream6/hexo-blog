@@ -371,7 +371,7 @@ https://education.github.com/pack
 
 ## 7 GitHub Pro权益认证
 
-{% post_link GitHub学生包自助认证 点击进行GitHub Pro权益认证 %}。
+{% post_link GitHub学生包自助认证 点击进行GitHub_Pro权益认证 %}。
 
 ## Finally 躺板板
 
