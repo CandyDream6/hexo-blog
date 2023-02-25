@@ -369,10 +369,9 @@ https://education.github.com/pack
 
 ![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/GitHub_Pro/61.png)
 
-## 7 GitHub Pro权益获取
+## 7 GitHub Pro权益认证
 
-`见文末`
-
+{% post_link GitHub学生包自助认证 点击进行GitHub Pro权益认证 %}。
 
 ## Finally 躺板板
 
