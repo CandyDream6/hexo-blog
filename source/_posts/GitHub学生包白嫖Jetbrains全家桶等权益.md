@@ -30,6 +30,10 @@ GitHub学生包就是`GitHub Pro`，是GitHub的付费认证用户，享有非�
 
 ### 1.2 绑定Jetbrains账号
 
+> 进入下面网址即可跳过1.2.1到1.2.3步骤
+
+https://www.jetbrains.com/shop/eform/students
+
 #### 1.2.1 进入Github官网（下面链接）
 
 https://education.github.com/pack/offers
