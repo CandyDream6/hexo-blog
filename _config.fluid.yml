@@ -316,7 +316,7 @@ navbar:
     #        { key: '何问起', link: '/customerPage/hewenqi/hewenqi.html' }
     #      ]
     #    }
-    - { key: "糖果梦资源", link: "https://tgmeng.com", icon: "iconfont icon-books" }
+    - { key: "糖果梦总站", link: "https://tgmeng.com", icon: "iconfont icon-books" }
     - { key: "商城", link: "https://shop.githubedu.com", icon: "iconfont icon-slack-fill" }
     #    - { key: "CuteTing", link: "https://xiaoma.love/", icon: "iconfont icon-friends" }
     - { key: "关于", link: "/about/", icon: "iconfont icon-user-fill" }
