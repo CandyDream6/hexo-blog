@@ -820,8 +820,8 @@ about:
   banner_img_height: 60
   banner_mask_alpha: 0
   subtitle: "It takes a strong man to save himself, and a great man to save another."
-  avatar: https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatHeadPortrait.png
-  name: 小马
+  avatar: https://my-main-web-1305951218.cos.ap-shanghai.myqcloud.com/logo/%E7%99%BD%E5%BA%95%E5%BD%A9%E5%9B%BE.png
+  name: 糖果梦
   introduce: "有些鸟儿是永远关不住的，因为他们的每一片羽翼都沾满了自由的光辉"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
