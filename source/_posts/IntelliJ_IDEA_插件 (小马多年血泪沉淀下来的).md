@@ -23,6 +23,12 @@ date: 2021-02-04 12:52:22
 
 如果大家有其他觉得特别好的插件，可以文章底部留言呦！
 
+<!-- more -->
+
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 Key Promoter X
 
 > 快捷键提示及设置,你的所有可以用快捷键代替的操作，都会提示你，还会统计这个操作你进行了多少次
@@ -101,4 +107,4 @@ date: 2021-02-04 12:52:22
 ![变量命名格式化](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/IDEAPlugins/CamelCase.png)
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

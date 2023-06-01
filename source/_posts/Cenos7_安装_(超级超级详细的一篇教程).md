@@ -19,7 +19,10 @@ date: 2018-10-23 00:21:49
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1.下载安装VMWare
 
 安装虚拟机的工具有很多，我们选择强大又稳定的VMWare。
@@ -106,4 +109,4 @@ date: 2018-10-23 00:21:49
 ---
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

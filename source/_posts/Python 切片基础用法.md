@@ -24,7 +24,10 @@ date: 2018-12-14 11:02:27
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 下标
 
 python中支持下标，同时也支持反向下标，
@@ -69,4 +72,4 @@ python中支持下标，同时也支持反向下标，
 还有很多比较有趣的用法，以后遇到了再慢慢补充吧。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

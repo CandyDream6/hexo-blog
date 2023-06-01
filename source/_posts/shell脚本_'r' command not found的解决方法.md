@@ -21,7 +21,10 @@ date: 2021-10-18 09:13:56
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 事故现场
 
 在Linux系统中，运行Shell脚本，出现了如下错误：
@@ -63,4 +66,4 @@ dos2unix init.sh
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

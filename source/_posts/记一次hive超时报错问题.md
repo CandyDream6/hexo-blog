@@ -21,7 +21,10 @@ date: 2021-09-12 20:40:52
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 场景
 
 > 我们使用`hive做数仓`，将RDBMS的数据`摄取到hive`中，或者再到`Kudu/HBase`，这个一波操作的话，我们需要建两个表，一个`hive表`，一个`hive和RDBMS的StorageHandler表`。
@@ -93,4 +96,4 @@ hive.metastore.client.socket.timeout
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

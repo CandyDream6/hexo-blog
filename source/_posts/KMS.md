@@ -14,6 +14,12 @@ date: 2018-10-04 18:05:31
 
 我们不是有文章讲了{% post_link installationSystem 安装操作系统(点击跳转) %}嘛，那么配套 **激活** 服务现在来了，这套服务可以激活windows和office大部分产品，舒服的很，大家有需求的继续往下看。
 
+<!-- more -->
+
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 福利地址
 
 ```
@@ -55,4 +61,4 @@ date: 2018-10-04 18:05:31
 ---
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

@@ -17,7 +17,10 @@ ClickHouse 的性能超过了市场上可供比较的面向列的数据库管理
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 实时OLAP分析需求
 
 ### 1.1 背景介绍
@@ -2762,4 +2765,4 @@ object ClickHouseUtils {
 
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

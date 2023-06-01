@@ -19,7 +19,10 @@ Azkaban的设计`主要考虑了可用性`。它已经在LinkedIn运行了好几
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 工作流调度 
 
 ### 1.1 工作流产生背景
@@ -444,4 +447,4 @@ command=sh /export/services/logistics/bin/scheduler.sh Customer
 > 提交运行，Azkaban会等时间到了就开始运行
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

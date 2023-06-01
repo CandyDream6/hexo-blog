@@ -22,7 +22,9 @@ date: 2023-05-17 20:29:36
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
 
 # 全民AI：https://tgmeng.com
 # 直接进入全网最新科技交流群，享受优惠和最新科技信息
@@ -123,4 +125,4 @@ Token 是 ChatGPT 用于计算使用量的单位。
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

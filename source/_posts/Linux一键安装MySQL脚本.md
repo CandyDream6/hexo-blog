@@ -17,7 +17,10 @@ date: 2021-11-22 10:08:20
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 安装Docker
 
 > 因为我是用`Docker`安装的`MySQL`，所以第一步安装一下`Docker`
@@ -137,4 +140,4 @@ docker update --restart=always $my_mysql_contain_name_repalce
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

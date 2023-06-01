@@ -19,7 +19,10 @@ date: 2018-11-20 00:44:53
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ![为什么我的U盘不合适](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/jinZhiZhuanHuan/jinZhiZhuanHuan.png)
 
 ## 1.了解进制
@@ -65,4 +68,4 @@ M宽带（8Mb/s）的理论速度应该是1MB/s，12M宽带为1.5MB/s，20M宽�
 其实并不是你买到了假的产品，而是采用不同的进制而已。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

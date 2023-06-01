@@ -17,7 +17,10 @@ date: 2021-11-23 09:22:38
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 环境准备
 
 > 我的虚拟机的地址是`192.168.88.56`
@@ -45,4 +48,4 @@ date: 2021-11-23 09:22:38
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

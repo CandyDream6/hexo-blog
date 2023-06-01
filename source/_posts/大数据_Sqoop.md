@@ -23,7 +23,10 @@ sqoop通过Hadoop的MapReduce导入导出，因此提供了很高的并行性能
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 概述
 
 > sqoop是apache旗下一款“`Hadoop和关系数据库服务器之间传送数据`”的工具。
@@ -400,4 +403,4 @@ CREATE TABLE `emp_out` (
 
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

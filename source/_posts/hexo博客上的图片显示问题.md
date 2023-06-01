@@ -12,6 +12,10 @@ category:
 date: 2018-08-03 10:17:35
 ---
 
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 在搭建博客的过程中，遇到的一个贴别蛋疼的事情就是图片加载不出来。
 
 ## 解决过程中踩坑
@@ -65,4 +69,4 @@ $ hexo new post myFirstBlog
 ---
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

@@ -14,7 +14,10 @@ OCR，即光学字符识别，是一种能将图片中的文字识别转换为�
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 简介
 
 在平时学习生活中，我们总会遇到很多时候，需要自己手打一些网上内容。
@@ -60,4 +63,4 @@ OCR，即光学字符识别，是一种能将图片中的文字识别转换为�
 ---
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

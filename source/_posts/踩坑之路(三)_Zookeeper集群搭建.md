@@ -22,7 +22,10 @@ date: 2021-05-07 18:10:57
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 下载上传Zookeeper安装包
 
 https://zookeeper.apache.org/releases.html
@@ -242,4 +245,4 @@ firewall-cmd --list-ports
 >> 解决办法两个：`一是将/etc/profile文件中的环境变量复制到~/.bashrc就解决了`。`二是在执行时暴露一下环境变量，像我上面那样`。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

@@ -20,7 +20,10 @@ Docker 可以让开发者打包他们的应用以及依赖包到一个`轻量级
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 大数据项目为什么使用Docker
 
 > 随着大数据平台型产品方向的深入应用实践和`Docker开源社区`的逐渐成熟，业界有不少的大数据研发团队开始使用Docker。简单来说，`Docker会让大数据平台部署更加简单快捷、让研发和测试团队集成交付更加敏捷高效、让产线环境的运维更加有质量保障`。
@@ -1223,4 +1226,4 @@ $ sudo docker login --username=xxx@aliyun.com registry.cn-hangzhou.aliyuncs.com
 ![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/Docker/37.png)
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

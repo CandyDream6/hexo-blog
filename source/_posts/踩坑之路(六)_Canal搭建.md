@@ -18,7 +18,10 @@ date: 2021-05-10 19:10:57
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 概述
 
 > 官网地址：https://github.com/alibaba/canal
@@ -151,4 +154,4 @@ tail -1000f /lankr/application/canal-1.1.15/logs/example/example.log
 > canal的官方文档确实坑很多，写的很乱，很多配置、参数都没有解释，哎，万能的google`滚啊趴啊`，`趴啊滚啊`，慢慢来吧。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

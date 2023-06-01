@@ -5,7 +5,10 @@ layout: about
 date: 2020-11-19 23:49:54
 ---
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 关于博主
 
 我是小马，一名拥有**`充满色彩`**、**`甜美`**、**`愉悦`**和**`幸福梦境`**的 **`可能会秃头`** 的打杂程序猿，每个人，都应该有一个信仰，而博客，或许可以成为承载信仰的方式之一。
@@ -21,4 +24,4 @@ date: 2020-11-19 23:49:54
 
 ## 关注博主不迷路
 
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

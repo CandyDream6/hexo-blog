@@ -27,7 +27,10 @@ Java虚拟机在执行字节码时，`把字节码解释成具体平台上的机
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 JVM的体系结构
 
 > 我画的`visio原图`链接，有兴趣的同学可以在这个图上自己改
@@ -344,4 +347,4 @@ public class TestJVM {
 -XX:HeapDumpPath=/home/admin/logs | 指定HeapDump的路径或目录
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

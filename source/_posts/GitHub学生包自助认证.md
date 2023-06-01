@@ -21,11 +21,12 @@ GitHub的学生包有非常多的优惠，但是有些人不知道怎么去认�
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
 
 ## 1 自助认证地址
-📌自助认证地址1：https://githubedu.com
-📌自助认证地址2：https://githubedu.cn
+📌自助认证地址：https://githubedu.com
 📌有问题联系站长：微信   MartinSky55
 
 ## 2 什么是GitHub学生包?
@@ -88,4 +89,4 @@ https://githubedu.com
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

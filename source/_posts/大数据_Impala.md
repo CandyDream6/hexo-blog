@@ -23,7 +23,10 @@ mpala 为 Hadoop 上的 BI/解析查询提供了低延迟和高并发性(不是�
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 即席查询背景介绍
 
 > 在快递业务运营过程中，经常会收到用户的投诉或者咨询，用户向咨询服务人员提供账号信息，客服人员可以根据用户的账号查询出来该用户的画像，以便对该用户的情况作为了解，因此数据开发人员需要编写sql语句实现用户画像开发，sql语句的开发牵扯到多表的关联会比较复杂，所以需要开发者平台实现sql的编写，Hue即实现了sql的开发
@@ -1190,4 +1193,4 @@ ALTER TABLE my_table SET TBLPROPERTIES('EXTERNAL' = 'TRUE');
 > 大表和大表JOIN时， 需要使用partitioned join。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

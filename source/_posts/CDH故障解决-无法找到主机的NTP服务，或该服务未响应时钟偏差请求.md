@@ -21,7 +21,10 @@ date: 2021-12-01 22:50:02
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 事故现场
 
 > 日常工作中，`CDH集群`有可能意外宕机，原因可能是`机房断电或者其他场景`。那么在`重新启动集群后`，有可能出现一些问题。
@@ -94,4 +97,4 @@ tail -f /var/log/cloudera-scm-server/cloudera-scm-server.log
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

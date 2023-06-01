@@ -22,7 +22,10 @@ date: 2019-01-18 20:26:17
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1.安装ntpdate
 
 ```
@@ -54,4 +57,4 @@ cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 以上内容也只是做了一下网上的搬运工，方便我自己以后查看。好了，吃饭走！走着！！
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

@@ -18,7 +18,10 @@ OGG能够实现大量交易数据的`实时捕捉，变换和投递`，实现源
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 OGG介绍
 
 ### 1.1 OGG简介
@@ -972,4 +975,4 @@ start rekafka
 > 这时候去操作oracle里的数据，应该就可以看到kafka里同步了。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

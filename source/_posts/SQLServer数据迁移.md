@@ -18,7 +18,10 @@ date: 2021-05-31 18:10:57
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 方案了解
 
 > 了解了一通之后，发现SQLServer的数据迁移一般有三种方案。
@@ -126,4 +129,4 @@ GO
 ![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/SQLServer数据迁移/11.png)
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

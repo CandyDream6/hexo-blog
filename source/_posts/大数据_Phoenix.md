@@ -24,7 +24,10 @@ Apache Phoenix与其他Hadoop产品（例如Spark，Hive，Pig，Flume和Map Red
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 Phoenix介绍
 
 [官网网址](http://phoenix.apache.org/)
@@ -931,4 +934,4 @@ AND T."receiver_account" = '18182767005' LIMIT 100;
 > 可以看到，查询速度非常快，0.1秒就查询出来了数据。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

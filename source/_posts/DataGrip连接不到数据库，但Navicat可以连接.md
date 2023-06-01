@@ -21,7 +21,10 @@ date: 2022-03-03 11:22:12
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 报错提示
 
 ![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/DataGrip连接不到数据库_但Navicat可以连接/1.png)
@@ -44,4 +47,4 @@ date: 2022-03-03 11:22:12
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

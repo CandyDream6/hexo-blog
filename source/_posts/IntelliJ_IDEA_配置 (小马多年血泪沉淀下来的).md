@@ -23,6 +23,12 @@ date: 2021-02-07 01:26:20
 
 有其他好用配置的朋友，可以在下方留言呦！
 
+<!-- more -->
+
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 忽略大小写开关
 
 > 写代码时，比如需要定义string类型变量，那么我们输入小写s的时候，idea默认是不会提示String的。这个设置就可以忽略掉大小写，输入小写s也可以提示String。
@@ -265,4 +271,4 @@ Ctrl+F12 或者 右击列名  ：定位到某行数据后，可以跳转到指�
 ![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/IDEASetting/2.png)
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

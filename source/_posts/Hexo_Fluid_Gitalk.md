@@ -23,7 +23,10 @@ Gitalk原理是用`Github`的仓库`Issues`来实现`评论存储功能`。
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 创建评论仓库
 
 > 这个仓库不创建也可以，我是为了把博客和评论分离开来，创建一个仓库专门用来`存储博客中的评论`。他是用Github仓库的`Issues`来实现评论存储的。
@@ -83,4 +86,4 @@ gitalk:
 `开启你的评论之旅吧！！！`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

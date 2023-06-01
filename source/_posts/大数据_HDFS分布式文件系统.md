@@ -22,7 +22,10 @@ HDFS（Hadoop Distributed File System）是 Apache Hadoop 项目的一个子项�
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 架构
 
 > HDFS的四个基本组件:**HDFS Client**、**NameNode**、**DataNode** 和 **Secondary NameNode**。
@@ -914,4 +917,4 @@ HDFS Federation并没有完全解决单点故障问题。虽然namenode/namespac
 所以一般集群规模真的很大的时候，会采用HA+Federation的部署方案。也就是每个联邦的namenodes都是ha的。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

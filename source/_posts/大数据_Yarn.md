@@ -28,7 +28,10 @@ NodeManager是每台机器框架代理，它负责容器，监视它们的资源
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 Yarn概念
 
 ![Yarn概念](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/大数据-Yarn/1.png)
@@ -296,4 +299,4 @@ yarn.nodemanager.vmem-pmem-ratio 2.1
 
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

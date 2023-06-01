@@ -23,7 +23,10 @@ date: 2021-08-03 16:33:50
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 下载Parcel包
 
 > 由于`Cloudera官网`关闭了`Cloudera-Phoenix`的下载，所以这里只能自己从网上去找资源，我们CDH集群用的是6.3.2，所以采用跟下面这个包(是我们公司大佬给我发的)，它`支持CDH6.2及其以上版本`。
@@ -140,4 +143,4 @@ cd /opt/cloudera/parcels/PHOENIX-5.0.0-cdh6.2.0.p0.1308267/bin/
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

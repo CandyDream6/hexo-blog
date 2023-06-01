@@ -19,7 +19,10 @@ date: 2021-12-03 11:11:05
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 场景
 
 > 我们是需要`从RDBMS载数到Impala`中，采用的方式是，通过`JDBCStorageHandler`，将数据装载到`Hive`中，然后刷新`Impala`指定表元数据，这样就可以在`Impala`中查询了。
@@ -59,4 +62,4 @@ date: 2021-12-03 11:11:05
 `饭饭里有红伞伞，吃完全村埋山山，来年长满红伞伞`
 __
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

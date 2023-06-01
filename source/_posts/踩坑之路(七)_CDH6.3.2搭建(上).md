@@ -20,7 +20,10 @@ date: 2021-05-22 10:10:57
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 > 整篇文章使用的文件链接
 
 ```shell
@@ -358,4 +361,4 @@ netstat -anp| grep 7180
 `可算是有这么一点点进展了，这两天踩坑把我踩麻了，给各路神仙请个安，希望接下来CDH的安装能够顺利一点！`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

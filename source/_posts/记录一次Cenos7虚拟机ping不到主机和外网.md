@@ -23,7 +23,10 @@ date: 2018-11-08 10:57:20
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1.事故现场
 
 可把人头皮搞麻，就怕这种本来好好的，突然不合适。先看下【事故现场】
@@ -45,4 +48,4 @@ date: 2018-11-08 10:57:20
 ![事故处理](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/Cenos7CannotPingNet/Cenos7CannotPingNet3.png)
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

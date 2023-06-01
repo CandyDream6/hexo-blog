@@ -17,7 +17,10 @@ date: 2021-03-24 09:06:54
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 > 我画的`visio原图`链接，有兴趣的同学可以在这个图上自己改
 
 ```
@@ -213,4 +216,4 @@ ALTER TABLE article ADD FULLTEXT INDEX index_article_contents　(contents);
 > 一个表里有10亿条数据，给你10000个主键id，把这一万条数据查出来。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

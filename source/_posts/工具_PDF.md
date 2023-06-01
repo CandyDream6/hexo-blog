@@ -16,7 +16,10 @@ Adobe Acrobat 是由A`dobe公司`开发的一款`PDF（Portable Document Format�
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 历史追溯
 
 > 写这篇博客是因为今天有朋友工作中遇到了需要`编辑PDF`的需求，在硕大的互联网上转悠了一圈后来找我。
@@ -44,4 +47,4 @@ Adobe Acrobat 是由A`dobe公司`开发的一款`PDF（Portable Document Format�
 ![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/工具_PDF/3.png)
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

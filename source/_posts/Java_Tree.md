@@ -15,7 +15,10 @@ date: 2021-03-23 18:51:27
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 > `慢慢更新，一点一点来..........`
 
 > 树可视化网站推荐，美的一批
@@ -111,4 +114,4 @@ https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 >> O(logn)
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

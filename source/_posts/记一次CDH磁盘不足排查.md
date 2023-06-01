@@ -17,7 +17,10 @@ date: 2021-08-26 19:26:54
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 检查系统磁盘占用
 
 ### 1.1 查看磁盘空间占用情况
@@ -149,4 +152,4 @@ echo "请手动去CDH界面重启一下Cloudera Management Service,不然监控�
 
 ## 关注博主不迷路
 
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

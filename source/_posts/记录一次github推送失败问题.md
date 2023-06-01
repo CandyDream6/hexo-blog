@@ -16,7 +16,10 @@ date: 2021-03-08 10:16:36
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 事故现场
 
 > 本是一个风和日丽的早晨，结果突然就变天了~
@@ -40,4 +43,4 @@ git config --global http.sslBackend "openssl"
 > `蛋疼的事每天都会发生，不要惊慌，不要失措，接着造~~`
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

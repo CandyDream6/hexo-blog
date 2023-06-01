@@ -38,7 +38,10 @@ hive的特点包括：`可伸缩`（在Hadoop的集群上动态添加设备）�
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 [Hive官网](https://hive.apache.org/)
 
 ## 1 数据仓库的介绍
@@ -3380,4 +3383,4 @@ set hive.mapred.reduce.tasks.speculative.execution=true;
 > 大数据场景下存储格式压缩格式尤为关键，可以提升计算速度，减少存储空间，降低网络io，磁盘io，所以要选择合适的压缩格式和存储格式,存储方式和压缩方式之前已经讲过，这里不再描述。
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)

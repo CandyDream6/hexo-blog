@@ -19,7 +19,10 @@ canal 作为 MySQL binlog 增量获取和解析工具，可将变更记录投递
 
 <!-- more -->
 
-![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
+# `关注博主不迷路，获取更多干货资源`
+
+![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
+
 ## 1 MySQL
 
 ### 1.1 Mysql部署
@@ -542,4 +545,4 @@ canal.instance.filter.regex=itcast_crm\\..*
 > 导入数据后查看kafka有没有摄取到数据
 
 ## 关注博主不迷路
-![联系博主](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/wechatFindMeNew.png)
+![联系博主](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
