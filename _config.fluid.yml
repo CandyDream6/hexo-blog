@@ -302,7 +302,8 @@ navbar:
   # 导航栏菜单，可自行增减，key 用来关联 languages/*.yml，如不存在关联则显示 key 本身的值；icon 是 css class，可以省略；增加 name 可以强制显示指定名称
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
-    - { key: "首页", link: "/", icon: "iconfont icon-home-fill" }
+    - { key: "糖果梦总站", link: "https://tgmeng.com", icon: "iconfont icon-home-fill" }
+    - { key: "商城", link: "https://shop.tgmeng.com", icon: "iconfont icon-slack-fill" }
 #    - { key: "归档", link: "/archives/", icon: "iconfont icon-archive-fill" }
 #    - { key: "分类", link: "/categories/", icon: "iconfont icon-category-fill" }
 #    - { key: "标签", link: "/tags/", icon: "iconfont icon-tags-fill" }
@@ -316,8 +317,6 @@ navbar:
     #        { key: '何问起', link: '/customerPage/hewenqi/hewenqi.html' }
     #      ]
     #    }
-    - { key: "糖果梦总站", link: "https://tgmeng.com", icon: "iconfont icon-books" }
-    - { key: "商城", link: "https://shop.tgmeng.com", icon: "iconfont icon-slack-fill" }
     #    - { key: "CuteTing", link: "https://xiaoma.love/", icon: "iconfont icon-friends" }
     - { key: "关于", link: "/about/", icon: "iconfont icon-user-fill" }
 #    - { key: "新冠肺炎疫情地图", link: "https://voice.baidu.com/act/newpneumonia/newpneumonia", icon: "iconfont icon-baidu-fill" }
