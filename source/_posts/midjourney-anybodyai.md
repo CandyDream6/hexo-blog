@@ -23,7 +23,7 @@ date: 2023-05-23 19:21:52
 
 ![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/icon/touBuYinDaoGuanZhu.gif)
 
-# 全民AI：https://chat.anybodyai.com
+# 全民AI：https://tgmeng.com
 # 直接进入全网最新科技交流群，享受优惠和最新科技信息
 
 <div align="center">   <img width="300" height="300" src="https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg" alt="售后群"> </div>
@@ -36,7 +36,7 @@ date: 2023-05-23 19:21:52
 
 ## 2 使用教程
 
-### 进入Midjourney网站：[](https://chat.anybodyai.com)，输入想要的图片信息即可
+### 进入Midjourney网站：[](https://tgmeng.com)，输入想要的图片信息即可
 
 ![](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleContent/Midjourney/1.png)
 
