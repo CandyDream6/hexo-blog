@@ -1,5 +1,5 @@
 ---
-title: 全民AI，人人都可以无障碍访问的ChatGPT Plus
+title: 糖果梦AI，人人都可以无障碍访问的ChatGPT Plus
 index_img: https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleBg/1(145).jpg
 banner_img: https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/articleBg/1(145).jpg
 sticky: 300
@@ -18,7 +18,7 @@ category:
 date: 2023-05-17 20:29:36
 ---
 
-`全民AI`，人人都可以`无障碍访问`的`ChatGPT Plus`。本系统是直接对接官方API接口，无需科学上网，是您工作与学习的好帮手。
+`糖果梦AI`，人人都可以`无障碍访问`的`ChatGPT Plus`。本系统是直接对接官方API接口，无需科学上网，是您工作与学习的好帮手。
 
 <!-- more -->
 
@@ -26,7 +26,7 @@ date: 2023-05-17 20:29:36
 
 ![](https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg)
 
-# 全民AI：https://tgmeng.com
+# 糖果梦AI：https://tgmeng.com
 # 直接进入全网最新科技交流群，享受优惠和最新科技信息
 
 <div align="center">   <img width="300" height="300" src="https://github-edu-student-id-card-basic-1305951218.cos.ap-shanghai.myqcloud.com/shouhou.jpg" alt="售后群"> </div>
