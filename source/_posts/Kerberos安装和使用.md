@@ -150,7 +150,7 @@ al des-cbc-crc:normal
 
 ### 2.4 生成Kerberos数据库
 
-> 在server节点执行下面操作，此处需要输入Kerberos数据库的密码，如：`hex159357`
+> 在server节点执行下面操作，此处需要输入Kerberos数据库的密码，如：`yourPassword`
 
 ```
 [root@node1]# kdb5_util create -r BIGDATA.HEX.COM -s
@@ -201,7 +201,7 @@ kadmin:  exit
 > `addprinc`, `add_principal`, `ank
 
 ```
-[root@node1]# kadmin.local -q "addprinc -pw hex159357 admin/admin@BIGDATA.HEX.COM"
+[root@node1]# kadmin.local -q "addprinc -pw yourPassword admin/admin@BIGDATA.HEX.COM"
 ```
 
 ### 3.3 查看Kerberos所有主体
@@ -225,7 +225,7 @@ kadmin:  exit
 > `cpw`, `change_password`
 
 ```
-[root@node1]# kadmin.local -q "cpw hex159357 admin/admin@BIGDATA.HEX.COM"
+[root@node1]# kadmin.local -q "cpw yourPassword admin/admin@BIGDATA.HEX.COM"
 ```
 
 ## 4 Kerberos主体认证
@@ -267,7 +267,7 @@ kadmin:  exit
 ### 5.1 为CM创建管理员主体
 
 ```
-[root@node1]# kadmin.local -q "addprinc -pw hex159357 cloudera-scm/admin@BIGDATA.HEX.COM"
+[root@node1]# kadmin.local -q "addprinc -pw yourPassword cloudera-scm/admin@BIGDATA.HEX.COM"
 ```
 
 ### 5.2 启用Kerberos
