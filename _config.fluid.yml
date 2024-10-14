@@ -396,17 +396,6 @@ footer:
     </div>
 
     <!-- 网易云音乐 -->
-    <div>
-        <audio loop autoplay id="music">
-        </audio>
-        <script src="https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/js/wangZhanBeiJingYinYue.js"></script>
-    </div>
-'
-
-
-  # 展示网站的 PV、UV 统计数
-  # Display website PV and UV statistics
-  statistics:
     enable: true
 
     # 统计数据来源，如果使用 leancloud 需要设置 `web_analytics: leancloud` 中的参数；如果使用 busuanzi 可能会有请求失败的情况
