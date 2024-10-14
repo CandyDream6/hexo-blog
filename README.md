@@ -1,5 +1,5 @@
 
-### [博客主页](https://blog.tgmeng.com/)
+### <a href="https://blog.tgmeng.com" target="blank">博客主页</a>
 
 ![主页](https://blog-1305951218.cos.ap-shanghai.myqcloud.com/blog/image/bg/for_git_readme.png)
 
@@ -13,6 +13,6 @@
 
 有兴趣的小伙伴们可以拉下来，改一改就成自己的。
 
-> 但是记得不要用我的图片呦，我会不开心的呢。.
+<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=60246&s=1' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter"></a></small></div>
 
 
